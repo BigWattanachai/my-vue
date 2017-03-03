@@ -15,5 +15,8 @@ export default {
   },
 };
 </script>
-<style>
+<style scoped>
+p.tasks {
+  text-align: center;
+}
 </style>
